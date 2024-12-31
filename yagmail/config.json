@@ -1,0 +1,14 @@
+{
+  "smtp_server": "smtp.163.com",
+  "smtp_port": 465,
+  "sender": "",
+  "password": "",
+  "emails": [
+    {
+      "subject": "测试邮件 1",
+      "body": "这是一封测试邮件，主题 1。",
+      "recipients": ["1808881488@qq.com"],
+      "attachments": null
+    }
+  ]
+}
